@@ -9,7 +9,7 @@ pygame.init()
 
 size = Values.WINDOW_SIZE
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("My First Game")
+pygame.display.set_caption("Traffic Light Controller")
 clock = pygame.time.Clock()
 sprites = pygame.sprite.Group()
 
