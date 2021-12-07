@@ -49,10 +49,8 @@ Make sure you have [pipenv](https://github.com/pypa/pipenv#installation) install
 
 ## References
 1. https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination
-2. https://www.fpga4student.com/2016/11/verilog-code-for-traffic-light-system.ht
-ml
+2. https://www.fpga4student.com/2016/11/verilog-code-for-traffic-light-system.html
 3. https://www.watelectronics.com/how-traffic-light-control-system-works/
-4. https://www.researchgate.net/publication/305674408_Smart_traffic_light_control
-_system
+4. https://www.researchgate.net/publication/305674408_Smart_traffic_light_control_system
 
 [back to top](#traffic-light-controller-fsm)
